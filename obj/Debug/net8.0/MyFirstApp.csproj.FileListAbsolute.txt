@@ -1,0 +1,14 @@
+E:\Dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.exe
+E:\Dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.deps.json
+E:\Dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.runtimeconfig.json
+E:\Dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.dll
+E:\Dotnet\MyFirstApp\bin\Debug\net8.0\MyFirstApp.pdb
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfoInputs.cache
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfo.cs
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.csproj.CoreCompileInputs.cache
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.dll
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\refint\MyFirstApp.dll
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
+E:\Dotnet\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
